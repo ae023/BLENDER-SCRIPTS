@@ -10,12 +10,14 @@ ORIGIN SETTING OPTIONS
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-origin_mode = 'ORIGIN_GEOMETRY'
+# SET ORIGIN MODE
+# origin_mode = 'ORIGIN_GEOMETRY'
 # origin_mode = 'ORIGIN_CENTER_OF_MASS'  # USE WITH BOUNDS
 # origin_mode = 'ORIGIN_CURSOR'
 # origin_mode = 'ORIGIN_CENTER_OF_VOLUME'
 
-center_option = 'MEDIAN'
+# SET CENTRE OPTION
+# center_option = 'MEDIAN'
 # center_option = 'BOUNDS'
 
 # SET ORIGIN FOR ALL SELECTED OBJECTS
